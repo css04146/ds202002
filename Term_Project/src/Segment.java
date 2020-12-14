@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-
+// 개선 이후의 알고리즘 소스코드
 public class Segment {
 
 	public static void main(String[] args) {
